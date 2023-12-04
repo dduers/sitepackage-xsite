@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Extension Manager/Repository config file for ext "sp_wildtier".
+ * Extension Manager/Repository config file for ext "sitepackage_xsite".
  */
 $EM_CONF[$_EXTKEY] = [
     'title' => 'sitepackage-xsite',
